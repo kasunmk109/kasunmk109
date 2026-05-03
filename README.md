@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:bf00ff&height=300&section=header&text=R.M.K.M.%20Karunarathne&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20%26%20Computer%20Engineering%20%7C%20DevOps%20Explorer%20%7C%20Linux%20Enthusiast&descSize=18&descAlignY=55&descColor=00f0ff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:bf00ff&height=300&section=header&text=R.M.K.M.%20Karunarathne&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Linux%20%7C%20Developer&descSize=18&descAlignY=55&descColor=00f0ff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%A5+Full+Stack+Developer+%7C+DevOps+Engineer;%F0%9F%8E%AE+Game+Developer+%7C+IoT+Enthusiast;%F0%9F%90%A7+Linux+System+Administrator+%7C+Terminal+Addict)](https://git.io/typing-svg)
 
