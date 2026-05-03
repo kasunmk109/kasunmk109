@@ -5,13 +5,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:bf00ff&height=300&section=header&text=R.M.K.M.%20Karunarathne&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Linux%20%7C%20Developer&descSize=18&descAlignY=55&descColor=00f0ff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%A5+Full+Stack+Developer+%7C+DevOps+Engineer;%F0%9F%8E%AE+Game+Developer+%7C+IoT+Enthusiast;%F0%9F%90%A7+Linux+System+Administrator+%7C+Terminal+Addict)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%A5+Full+Stack+Developer+%7C+DevOps+Engineer;%F0%9F%8E%AE+Game+Developer+%7C+IoT+Enthusiast;%F0%9F%90%A7+Linux+System+Administrator+%7C+Terminal+Addict)](https://git.io/typing-svg)
+
+
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kasunmk109&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kasunmk109&style=for-the-badge&color=bf00ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/kasunmk109?style=for-the-badge&color=bf00ff&labelColor=0d1117&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/kasunmk109?style=for-the-badge&color=00f0ff&labelColor=0d1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/kasunmk109?style=for-the-badge&color=bf00ff&labelColor=0d1117&logo=github)
 
 <br>
 
